@@ -1,0 +1,33 @@
+body {
+    background-color: #fffffff3;
+    text-align: center;
+}
+
+.google {
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-family:sans-serif;
+    letter-spacing: -17px;
+    
+    line-height: 0px;
+}
+.google {
+    margin: 1em;
+}
+
+input {
+    width: 40vw;
+    height: 6vh;
+    border-radius: 45px 44px 44px 44px;
+    font-size:34px;
+}
+
+button {
+    margin: 11px;
+    height: 5vh;
+    background: #ffffff;
+    border: #eeeeee94 2px solid;
+    text-align:center;
+    border-radius: 5px 5px 5px 5px
+}
